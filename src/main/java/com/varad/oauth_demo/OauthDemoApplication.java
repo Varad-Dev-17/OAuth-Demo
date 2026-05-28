@@ -11,7 +11,7 @@ public class OauthDemoApplication {
 	public static void main(String[] args) {
 
         SpringApplication.run(OauthDemoApplication.class, args);
-        logger.info("Application Started.");
+        logger.info("OAuth Demo Application Started.");
 
 	}
 
